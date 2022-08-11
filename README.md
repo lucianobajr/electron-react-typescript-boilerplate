@@ -26,9 +26,13 @@ To generate the project package based on the OS you're running on, just run:
 yarn package
 ```
 
-## Contributing
+## Build to Linux :linux: (deb and snap)
 
-Pull requests are always welcome 😃.
+To generate the project build based to Linux, just run:
+
+```bash
+yarn dist:linux
+```
 
 ## License
 
