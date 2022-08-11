@@ -26,7 +26,7 @@ To generate the project package based on the OS you're running on, just run:
 yarn package
 ```
 
-## Build to Linux :linux: (deb and snap)
+## Build to Linux :penguin: (deb and snap)
 
 To generate the project build based to Linux, just run:
 
